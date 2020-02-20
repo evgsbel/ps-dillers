@@ -71,6 +71,9 @@
     .pfo__title {
         font-size: 24px;
     }
+    .documentation__links {
+        justify-content: center;
+    }
 
 
 }
@@ -80,9 +83,6 @@
         padding-left: 0;
         width: 90%;
         max-width: 100%;
-    }
-    .documentation__links {
-        justify-content: center;
     }
 }
 
