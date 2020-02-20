@@ -40,6 +40,15 @@
     }
 }
 @media only screen and (max-width:480px) {
+    .dillers__title {
+        text-align: center;
+    }
+    .n-dillers__content {
+        text-align: center;
+    }
+    .advantages__text_bold {
+        text-align: center;
+    }
     .n-diller__clients-item {
         width: 100%;
     }
